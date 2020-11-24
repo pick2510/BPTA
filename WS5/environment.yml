@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _anaconda_depends=2020.07
   - _ipyw_jlab_nb_ext_conf=0.1.0
   - _libgcc_mutex=0.1
   - alabaster=0.7.12
