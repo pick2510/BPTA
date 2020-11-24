@@ -2,6 +2,9 @@ name: myenv
 channels:
   - defaults
 dependencies:
-  - anaconda
+  - pandas
+  - matplotlib
+  - numpy
+  - scipy
   - lmfit
 prefix: /home/strebdom/anaconda3/envs/myenv
