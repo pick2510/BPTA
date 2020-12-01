@@ -7,4 +7,5 @@ dependencies:
   - numpy
   - scipy
   - lmfit
+  - xlrd
 prefix: /home/strebdom/anaconda3/envs/myenv
